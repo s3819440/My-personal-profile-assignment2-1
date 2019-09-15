@@ -3,13 +3,6 @@
 <h1> INTEREST IN IT </h1>
 </html>
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
 <h4>What is your interest in IT?</h4>
 <p>My interest in IT stems right from an early age, I was always interested in little gadgets especially mobile devices. As I have grown so has my interests in IT to the point of where I see myself now, wanting to work direct in the IT industry. This is the next progression for myself, almost like I have graduated to the position due to my past experiences and interests. My goal within IT as of yet is wanting to get into cyber security. I'm interested in cyber security simply because I feel this is an area that will always require work as the constant threat of system breaches and stolen information is ever present. <br />
 
