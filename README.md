@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <h1> INTEREST IN IT </h1>
 </html>
@@ -10,9 +9,9 @@ My long term and ultimate goal is working for the Australian Defence Force. This
 
 
 <h4> When did you interest in IT start? </h4>
-<p>I was always interested in IT, I just hadn’t realised it till recently. Right from the jump working for Vodafone in my teens, I was a telecommunication expert and nerd. I knew the in’s and outs of how to operate several mobile devices including Iphones, samsungs and various other Android devices like the HTC at the time. It was my job to stay educated on these matters and I thoroughly enjoyed it. This interest in IT was also enhanced by my older brother, we both we finatically for phones, at the time I had an HTC (which seems pretty ancient now) and I vowed to never switch to apple because I realised the capabilities of android devices over apple.
+<p>I was always interested in IT, I just hadn’t realised it till recently. Right from the jump working for Vodafone in my teens, I was a telecommunication expert and nerd. I knew the in’s and outs of how to operate several mobile devices including Iphones, samsungs and various other Android devices like the HTC at the time. It was my job to stay educated on these matters and I thoroughly enjoyed it. This interest in IT was also enhanced by my older brother, we both we finatically for phones, at the time I had an HTC (which seems pretty ancient now) and I vowed to never switch to apple because I realised the capabilities of android devices over apple. <br />
 
-This interest has been fed and enhanced for most of my working life. I previously worked for NRMA insurance, I was in the claims department, I also created quotes and insurance policies. I was in regular contact with operational systems such as siebel, avaya etc. Had a brief stint with apple working as a phone technician and repairer. Working with apple I became a certified Iphone repair and really understood how to take apart an Iphone and put it back together again. This job led to the switch from a samsung device to an Iphone. 
+This interest has been fed and enhanced for most of my working life. I previously worked for NRMA insurance, I was in the claims department, I also created quotes and insurance policies. I was in regular contact with operational systems such as siebel, avaya etc. Had a brief stint with apple working as a phone technician and repairer. Working with apple I became a certified Iphone repair and really understood how to take apart an Iphone and put it back together again. This job led to the switch from a samsung device to an Iphone. <br />
 
 As you can see IT as always been a huge influence and component in my life and stems from right when I was in my early teens. IT is the way forward and as careers are becoming redundant, IT is here to stay and is the future. </p>
 
