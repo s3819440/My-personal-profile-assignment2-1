@@ -5,7 +5,7 @@
 <h4>What is your interest in IT?</h4>
 <p>My interest in IT stems right from an early age, I was always interested in little gadgets especially mobile devices. As I have grown so has my interests in IT to the point of where I see myself now, wanting to work direct in the IT industry. This is the next progression for myself, almost like I have graduated to the position due to my past experiences and interests. My goal within IT as of yet is wanting to get into cyber security. I'm interested in cyber security simply because I feel this is an area that will always require work as the constant threat of system breaches and stolen information is ever present. <br />
 
-My long term and ultimate goal is working for the Australian Defence Force. This degree will enable me direct entry as a combat officer or entry into one of the various IT positions available at the ADF. This is a blend of two of my biggest passions in life, fitness and IT. I also want this degree to create a pathway for me moving over and living permanently in Melbourne. I’m currently living in Sydney, and landing a role within the IT industry in Melbourne will make my transition a lot smoother.</p>
+<br />My long term and ultimate goal is working for the Australian Defence Force. This degree will enable me direct entry as a combat officer or entry into one of the various IT positions available at the ADF. This is a blend of two of my biggest passions in life, fitness and IT. I also want this degree to create a pathway for me moving over and living permanently in Melbourne. I’m currently living in Sydney, and landing a role within the IT industry in Melbourne will make my transition a lot smoother.</p>
 
 
 <h4> When did you interest in IT start? </h4>
